@@ -1,2 +1,2 @@
-# comp-phys
+# Computational Physics
 Computational physics module (Cardiff University)
