@@ -1,5 +1,5 @@
 # Computational Physics
-A compilation of computational techniques used in theoretical physics.
+A compilation of computational techniques used in theoretical physics in python.
 
 ## Content Summary
 **Week 1:** Numerical Differentiation
